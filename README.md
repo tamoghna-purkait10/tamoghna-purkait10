@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamoghna-purkait10
 - 👀 I’m interested in Backend and Cloud framework
-- 🌱 I’m currently learning C#, ASP.NET
+- 🌱 I’m currently learning Data Structures and Algorithm
 - 📫 How to reach me tamoghna10@hotmail.com
 
 <!---
